@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1879,5): warning : The referenced project '..\cocos2d\external\Box2D\proj.win32\libbox2d.vcxproj' does not exist.
+  AppDelegate.cpp
+  HelloWorldScene.cpp
+  main.cpp
+AppDelegate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library C:\Users\100706824\Documents\Cocos\NewProjects\PHAT-ASTEROIDS\proj.win32\Debug.win32\PHAT-ASTEROIDS.lib and object C:\Users\100706824\Documents\Cocos\NewProjects\PHAT-ASTEROIDS\proj.win32\Debug.win32\PHAT-ASTEROIDS.exp
+  PHAT-ASTEROIDS.vcxproj -> C:\Users\100706824\Documents\Cocos\NewProjects\PHAT-ASTEROIDS\proj.win32\Debug.win32\PHAT-ASTEROIDS.exe
+  Performing Custom Build Step
+  C:\Users\100706824\Documents\Cocos\NewProjects\PHAT-ASTEROIDS\Resources\CloseNormal.png -> C:\Users\100706824\Documents\Cocos\NewProjects\PHAT-ASTEROIDS\proj.win32\Debug.win32\CloseNormal.png
+  C:\Users\100706824\Documents\Cocos\NewProjects\PHAT-ASTEROIDS\Resources\CloseSelected.png -> C:\Users\100706824\Documents\Cocos\NewProjects\PHAT-ASTEROIDS\proj.win32\Debug.win32\CloseSelected.png
+  C:\Users\100706824\Documents\Cocos\NewProjects\PHAT-ASTEROIDS\Resources\HelloWorld.png -> C:\Users\100706824\Documents\Cocos\NewProjects\PHAT-ASTEROIDS\proj.win32\Debug.win32\HelloWorld.png
+  C:\Users\100706824\Documents\Cocos\NewProjects\PHAT-ASTEROIDS\Resources\fonts\arial.ttf -> C:\Users\100706824\Documents\Cocos\NewProjects\PHAT-ASTEROIDS\proj.win32\Debug.win32\fonts\arial.ttf
+  C:\Users\100706824\Documents\Cocos\NewProjects\PHAT-ASTEROIDS\Resources\fonts\Marker Felt.ttf -> C:\Users\100706824\Documents\Cocos\NewProjects\PHAT-ASTEROIDS\proj.win32\Debug.win32\fonts\Marker Felt.ttf
+  C:\Users\100706824\Documents\Cocos\NewProjects\PHAT-ASTEROIDS\Resources\res\.gitkeep -> C:\Users\100706824\Documents\Cocos\NewProjects\PHAT-ASTEROIDS\proj.win32\Debug.win32\res\.gitkeep
+  6 File(s) copied
